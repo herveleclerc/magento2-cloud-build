@@ -7,7 +7,7 @@
         "OSL-3.0"
     ],
     "require": {
-        "phoenix-media/magento2-ece-tools": ">=1.0.9",
+        "phoenix-media/magento2-ece-tools": ">=1.0.4 <1.0.6",
         "magento/magento2-base": ">=2.3.5 <2.3.6"
     },
     "bin": [
