@@ -1,5 +1,5 @@
 {
-    "name": "phoenix-media/magento2-cloud-build",
+    "name": "herveleclerc/magento2-cloud-build",
     "description": "Dockerfile, configurations and scripts to build Magento2 Docker images.",
     "type": "library",
     "version": "1.0.29",
